@@ -1,0 +1,58 @@
+.navbar {
+    background-color:  rgb(30,144,255) !important;
+    
+    
+    
+}
+.hbib{
+    color: white;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px black;
+}
+.villg{
+    color: white;
+    margin-top: +5px;
+}
+.nav-item:hover {
+    background-color: blue;
+    color: #fff !important;
+}
+.nav-link{
+    color: ivory !important;
+    border: 1px circle black;
+
+    font-weight: bold;
+    margin-top: -10px ;
+}
+.heading{
+    text-decoration: underline;
+    text-align: center;
+    color:rgb(30,144,255) ;
+    text-shadow: 3px 3px 3px black;
+    margin: 5px;
+    padding: 5px;
+}
+.desh{
+    box-shadow: 3px 3px 5px black;
+    background-color:rgb(30,144,255)  ;
+    margin: 5px;
+}
+.picsr{
+    width: 300px;
+  }
+.thnkuuu ,p{
+    color:rgb(30,144,255);
+}
+.footer{
+    background-color: rgb(30,144,255);
+}
+.linkss{
+    display: inline;
+    text-decoration: none;
+    color: #fff;
+    list-style-type: none;
+}
+.li>a{
+    text-decoration: none;
+    list-style-type: none;
+}

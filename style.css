@@ -1,0 +1,148 @@
+.navbar {
+    background-color:  rgb(30,144,255) !important;
+    
+    
+    
+}
+.hbib{
+    color: white;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px black;
+}
+.villg{
+    color: white;
+    margin-top: +5px;
+}*/
+.a{
+    text-decoration: none !important;
+
+}
+.li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.p{
+    text-align: justify top;
+}
+.logo{
+    text-indent: 55px;
+    text-align: initial;
+font-weight: bold;
+font-size: 50px;
+margin-top: -35px;
+margin-left: 1em;
+font-family: Arial, Helvetica, sans-serif;
+width: 70%;
+margin-top: -35px;
+color: #fff;
+text-shadow: 2px 2px 2px black;
+
+
+}
+.collapse{
+    size: 50px !important;
+}
+
+.sajid{
+    margin-top: -20px;
+    margin-left: 2em;
+    color:white;
+    text-align: left;
+
+    
+}
+
+.nav-item:hover {
+    background-color: blue;
+    color: #fff !important;
+}
+.nav-link{
+    color: ivory !important;
+    border: 1px circle black;
+
+    font-weight: bold;
+    margin-top: -10px ;
+}
+
+
+.GI{
+    text-align: center;
+    margin-top: +25px;
+    color: rgb(30,144,255);
+    text-shadow: 3px 3px 3px black;
+}
+.decrtp{
+    line-height: 2.5em;
+    padding: 30px;
+    margin: 10px;
+    line-height: 1.5em;
+}
+.brohi{
+    border:  0.5px solid black ;
+    background-color:  rgb(30,144,255) ;
+}
+.footer{
+    border: 1px solid black;
+    margin-top: +80px;
+    background-color:rgb(30,144,255) ;
+}
+.texts{
+    text-align: center;
+}
+.imagu{
+    margin-top: -35px;
+    margin-right: -20px;
+width: 50%;
+height: 50%;
+}
+
+ .sitess >img {
+    width: 20px;
+height: 30px;
+display: inline block;
+float: left;
+text-align: center;
+flex-wrap: wrap;
+ }
+.alis{
+    width: 20px;
+}
+li{
+    list-style-type: none;
+    padding: 2px;
+    margin: 2px;
+    display:  inline-block;
+    text-align: center;
+}
+
+ .devl{
+    
+     border: 1px solid black;
+     width: 200px;
+     background-color:rgb(30,144,255);
+     
+     
+ }
+ .dp{
+     width: 200px;
+     height: 200px;
+    
+ }
+ .shm{
+     color: white
+ }
+ .vllg{
+     margin-right: 
+     +25px;
+
+ }
+ .ffg{
+     color: #fff;
+     background-color:rgb(30,144,255) ;
+ }
+ @media screen and (max-width: 900px){
+
+.navbar{ width: 100%;
+
+}
+ }

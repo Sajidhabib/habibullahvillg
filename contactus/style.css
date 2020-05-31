@@ -1,0 +1,126 @@
+.navbar {
+    background-color:  rgb(30,144,255) !important;
+    
+    
+    
+}
+.hbib{
+    color: white;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px black;
+}
+.villg{
+    color: white;
+    margin-top: +5px;
+}
+.a{
+    text-decoration: none !important;
+}
+.li{
+    text-decoration: none;
+}
+.p{
+    text-align: justify top;
+}
+.logo{
+    text-indent: 55px;
+    text-align: initial;
+font-weight: bold;
+font-size: 50px;
+margin-top: -35px;
+margin-left: 1em;
+font-family: Arial, Helvetica, sans-serif;
+color:#fff;
+text-decoration: blinqe;
+
+
+}
+.collapse{
+    size: 50px !important;
+}
+
+.sajid{
+    margin-top: 1em;
+    margin-left: 2em;
+    color: white;
+    
+}
+
+.nav-item:hover {
+    background-color: blue;
+    color: #fff !important
+}
+.nav-link{
+    color: ivory !important;
+    font-weight: bold;
+}
+/*.slider{
+    width: 80%;
+    height: 100%;
+}
+.carousel{
+    size: 50px;
+}*/
+.GI{
+    text-align: center;
+    margin-top: +25px;
+    color: rgb(30,144,255)
+    ;
+}
+/*Footer
+*/
+.footer{
+    border: 1px solid black;
+    margin-top: +80px;
+    background-color:rgb(30,144,255) ;
+}
+
+.sitess >img {
+    width: 20px;
+height: 30px;
+display: inline block;
+float: left;
+text-align: center;
+flex-wrap: wrap;
+ }
+ .alis{
+    width: 20px;
+}
+ li{
+    list-style-type: none;
+    padding: 2px;
+    margin: 2px;
+    display:  inline-block;
+    text-align: center;
+}
+ .devl{
+    
+    border: 1px solid black;
+    width: 200px;
+    background-color:rgb(30,144,255);
+    
+    
+}
+.dp{
+    width: 200px;
+    height: 200px;
+   
+}
+.shm{
+    color: white;
+}
+.vllg{
+    margin-right: 
+    +25px;
+}
+.bored{
+    width: 700px;
+    margin-top: -70p;
+    display: inline-flex;
+    
+}
+.baba{
+    border: 0px solid black;
+    display: inline-block;
+
+}
